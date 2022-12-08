@@ -12,10 +12,10 @@
     <div class="form-group mb-3">
         <label for="link" class="fw-semibold">Insira o link de "Incorporar álbum"</label>
         <input type="url" name="link" placeholder="Link" class="form-control" required>
-        <a href="?page=getAlbumLink" class="btn btn-primary mt-3">Clique aqui para conseguir o link do seu álbum</a>
+        <a href="?page=getAlbumLink" class="btn btn-primary mt-3">Clique aqui para obter o link do seu álbum</a>
     </div>
     <div class="mt-5">
-        <button type="submit" class="btn btn-success w-25">Adicionar novo álbum</button>
+        <button type="submit" class="btn btn-success w-25">Adicionar</button>
         <a href="?page=albums" class="btn btn-danger">Cancelar</a>
     </div>
 </form>
