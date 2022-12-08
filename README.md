@@ -8,7 +8,7 @@
 <p align="center">
   <img alt="" src="ReadmeImages/AdicionarAlbum.png" width="100%">
 </p>
-<h2>Obtendo o link do álbum para criação do álbum</h2>
+<h2>Obtendo o link do frame para criação do álbum</h2>
 <p align="center">
   <img alt="" src="ReadmeImages/ConseguindoLink.png" width="100%">
 </p>
@@ -50,8 +50,8 @@ O projeto MP3 é um sistema de exibição de álbuns dinâmico que permite a adi
 - ``Funcionalidade 1:`` Visualização dinâmica e responsiva dos álbuns do usuário
 - ``Funcionalidade 2:`` Adição de novos álbuns
 - ``Funcionalidade 3:`` Sistema de obtenção de link de álbum para a criação de novos álbuns
-- ``Funcionalidade 4 (Sistema interno):`` Manipulação de arquivos e diretórios
-- ``Funcionalidade 5 (Sistema interno):`` Navegação entre páginas
+- ``Funcionalidade 4`` Navegação entre páginas
+- ``Funcionalidade 5 (Sistema interno):`` Manipulação de arquivos e diretórios
 
 ## 📂 Acesso ao projeto
 
