@@ -55,7 +55,7 @@ O projeto MP3 é um sistema de exibição de álbuns dinâmico que permite a adi
 
 ## 📂 Acesso ao projeto
 
-Você pode acessar o projeto [baixando-o]() e iniciando na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando.
+Você pode acessar o projeto [via link](https://projeto-mp3-php.gustavoborges8.repl.co) [ou baixando-o]() e iniciando-o na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando.
 
 ## 👤 Autor
 
