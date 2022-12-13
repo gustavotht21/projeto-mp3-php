@@ -25,7 +25,7 @@
 
 ## ⚙️ Introdução
 
-O projeto MP3 é um sistema de exibição de álbuns dinâmico que permite a adição de novos álbuns. O sistema foi desenvolvido utilizando HTML, CSS, PHP e [outras ferramentas e tecnologias](#%EF%B8%8F-tecnologias-utilizadas)
+O projeto MP3 é um sistema de exibição de álbuns dinâmico que permite a adição e exclusão de novos álbuns. O sistema foi desenvolvido utilizando HTML, CSS, PHP e [outras ferramentas e tecnologias](#%EF%B8%8F-tecnologias-utilizadas)
 
 
 ## 🖥️ Tecnologias utilizadas
