@@ -1,6 +1,9 @@
 <h1 style="margin: 30px 0; color: #12376E;">Seus álbuns</h1>
 
-<a href="?page=newAlbum" class="btn btn-success" style="margin-bottom: 20px;">Adicionar álbum</a>
+<div style="margin-bottom: 20px;">
+    <a href="?page=newAlbum" class="btn btn-success">Adicionar álbum</a>
+    <a href="?page=deleteAlbum" class="btn btn-danger">Excluir álbum</a>
+</div>
 
 <div class="row mb-5">
     <?php
